@@ -1,4 +1,4 @@
-Hello 👋, I'm Martin 😁
+**Hello** 👋, **I'm Martin** 😁
 Hello, I am a computer warranty engineer and have a passion for information security.
 
 🔭 I am currently learning about malicious code
