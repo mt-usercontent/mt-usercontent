@@ -1,8 +1,6 @@
 ### **Hello** 👋, **I'm Martin** 😁
 <p>Hello, I am a computer warranty engineer and have a passion for information security.
-<p> 
-<p>
-<p> 🔭 I am currently learning about malicious code
+<p><p><p> 🔭 I am currently learning about malicious code
 <p> 💬 Brainstorm with me about technology and business.
 <p> 📫 How to contact me: martin.tuanbui@gmail.com
 <p> Languages and tools:
