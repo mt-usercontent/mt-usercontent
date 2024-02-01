@@ -1,9 +1,9 @@
 <h3>Hello 👋, I'm Martin 😁</h3>
 <br></br>
 <p>Hello, I am a computer warranty engineer and have a passion for information security.
-<li> 🔭 I am currently learning about malware.</li>
-<li> 💬 Brainstorm with me about technology and business.</li>
-<li>📫 How to contact me: <a href="mailto:martin.tuanbui@gmail.com">martin.tuanbui@gmail.com</a></li>
+&nbsp<li> 🔭 I am currently learning about malware.</li>
+&nbsp<li> 💬 Brainstorm with me about technology and business.</li>
+&nbsp<li>📫 How to contact me: <a href="mailto:martin.tuanbui@gmail.com">martin.tuanbui@gmail.com</a></li>
 <br><h3>Languages and tools: </h3></br>
 
 
