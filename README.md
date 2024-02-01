@@ -4,7 +4,7 @@
 &nbsp<li> 🔭 I am currently learning about malware.</li>
 &nbsp<li> 💬 Brainstorm with me about technology and business.</li>
 &nbsp<li>📫 How to contact me: <a href="mailto:martin.tuanbui@gmail.com">martin.tuanbui@gmail.com</a></li>
-<br><h3>Languages and tools: </h3></br>
+<br><h3>Languages and tools: C/C++</h3></br>
 
 
 <!---
